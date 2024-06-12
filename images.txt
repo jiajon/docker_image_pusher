@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 adolfintel/speedtest
 lkw199711/smanga
 gotson/komga
+linuxserver/calibre-web

@@ -4,3 +4,4 @@ adolfintel/speedtest
 lkw199711/smanga
 gotson/komga
 linuxserver/calibre-web
+linuxserver/transmission

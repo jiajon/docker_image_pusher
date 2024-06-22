@@ -5,3 +5,4 @@ lkw199711/smanga
 gotson/komga
 linuxserver/calibre-web
 linuxserver/transmission
+oldiy/transmission-twc
